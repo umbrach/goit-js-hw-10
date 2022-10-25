@@ -18,3 +18,40 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+
+/* Country list styles */
+
+input {
+  text-align: center;
+  width: 2000px;
+
+  font-family: 'Montserrat';
+}
+
+li {
+  list-style: none;
+}
+
+.title {
+  font-size: 38px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-family: 'Montserrat';
+}
+
+.text {
+  font-size: 18px;
+  font-weight: 400;
+  text-transform: inherit;
+  font-family: 'Montserrat';
+  
+}
+
+.info {
+  font-size: 18px;
+  font-weight: 600;
+  font-style: normal;
+  text-transform: uppercase;
+  font-family: 'Montserrat';
+}
